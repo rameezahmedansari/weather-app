@@ -13,3 +13,6 @@ font icon : <script src='https://kit.fontawesome.com/a076d05399.js' crossorigin=
 
 //API is free to use 
 fetch(`https://api.openweathermap.org/data/2.5/weather?q=${city}&units=metric&appid=${APIKey}`)
+
+
+Figma Link : https://www.figma.com/file/7xZYGCfztiCvBuHP9Uo5tJ/Weather-App?node-id=4%3A21&t=tFWw6co3DzHrVWzh-1
